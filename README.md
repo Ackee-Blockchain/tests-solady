@@ -1,4 +1,9 @@
 # Tests for Solady
+This repository serves as an example of tests written in a development and testing framework called [Woke](https://github.com/Ackee-Blockchain/woke).
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/56036748/259106454-2994669f-525c-479d-bbc9-c78da6f401de.png" width="80">
+</p>
 
 ## Setup
 
