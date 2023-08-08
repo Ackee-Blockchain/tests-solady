@@ -1,4 +1,4 @@
-# Woke tests for Solady
+# Tests for Solady
 
 ## Setup
 
