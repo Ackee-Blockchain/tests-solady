@@ -1,7 +1,0 @@
-[compiler.solc]
-ignore_paths = ["source/node_modules", "source/lib", "source/test"]
-include_paths = ["source/node_modules"]
-remappings = ["src/=source/src/"]
-
-[compiler.solc.optimizer]
-enabled = true

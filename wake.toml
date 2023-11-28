@@ -1,0 +1,15 @@
+[compiler.solc]
+include_paths = [
+    "source/node_modules",
+]
+remappings = [
+    "src/=source/src/",
+]
+exclude_paths = [
+    "source/node_modules",
+    "source/lib",
+    "source/test",
+]
+
+[compiler.solc.optimizer]
+enabled = true

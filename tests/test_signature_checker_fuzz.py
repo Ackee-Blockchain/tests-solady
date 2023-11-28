@@ -1,5 +1,5 @@
-from woke.testing import *
-from woke.testing.fuzzing import *
+from wake.testing import *
+from wake.testing.fuzzing import *
 from pytypes.tests.SignatureCheckerMock import SignatureCheckerMock, ERC1217SignatureChecker
 
 class SignatureCheckerFuzzTest(FuzzTest):

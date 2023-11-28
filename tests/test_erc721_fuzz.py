@@ -1,7 +1,7 @@
 import random
 
-from woke.testing.fuzzing import *
-from woke.testing import *
+from wake.testing.fuzzing import *
+from wake.testing import *
 
 from pytypes.tests.ERC721Mock import ERC721Mock
 

@@ -1,14 +1,13 @@
 {
-    "woke.compiler.solc.ignore_paths": [
+    "wake.compiler.solc.exclude_paths": [
         "source/node_modules",
-        ".woke-build",
         "venv",
         "source/lib"
     ],
-    "woke.compiler.solc.include_paths": [
+    "wake.compiler.solc.include_paths": [
         "source/node_modules"
     ],
-    "woke.compiler.solc.remappings": [
+    "wake.compiler.solc.remappings": [
         "ds-test/=source/lib/ds-test/src/",
         "forge-std/=source/test/utils/forge-std/",
         "src/=source/src/"
