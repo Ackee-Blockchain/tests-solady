@@ -1,7 +1,7 @@
 from dataclasses import dataclass, field
 
 from eth_account._utils.structured_data.hashing import hash_message
-from woke.testing import *
+from wake.testing import *
 from pytypes.source.src.utils.ERC1967Factory import ERC1967Factory
 from pytypes.tests.EIP712Mock import EIP712Mock
 

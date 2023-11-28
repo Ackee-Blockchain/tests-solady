@@ -3,8 +3,8 @@ from collections import defaultdict
 import random
 from typing import DefaultDict, Set
 
-from woke.testing import *
-from woke.testing.fuzzing import *
+from wake.testing import *
+from wake.testing.fuzzing import *
 from pytypes.tests.ERC1155Mock import ERC1155Mock
 
 

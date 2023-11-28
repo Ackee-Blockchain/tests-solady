@@ -1,7 +1,7 @@
 import random
 
-from woke.testing import *
-from woke.testing.fuzzing import random_bytes, random_int
+from wake.testing import *
+from wake.testing.fuzzing import random_bytes, random_int
 from pytypes.tests.MerkleProofMock import MerkleProofMock
 
 from .utils import MerkleTree
